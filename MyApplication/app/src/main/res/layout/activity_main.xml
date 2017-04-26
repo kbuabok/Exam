@@ -46,7 +46,8 @@
             android:id="@+id/edtanswer"
             android:layout_width="200dp"
             android:layout_height="wrap_content"
-            android:layout_below="@+id/line1"/>
+            android:layout_below="@+id/line1"
+            android:inputType="number"/>
 
         <Button
             android:id="@+id/btnStart"
